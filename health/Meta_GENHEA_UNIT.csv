@@ -1,0 +1,25 @@
+CDU_FIELD_NAME,CENSUS_CELLNAME,TOPIC,CATEGORY,TOPIC_DESCRIPTION,
+F1777,QS302EW0006,General health,Very bad health,"General health is a self-assessment of a person's general state of health. People were asked to assess whether their health was very good, good, fair, bad or very bad. For England and Wales, this assessment is not based on a person's health over any specified period of time.
+<br /><br />
+&nbsp;&nbsp;<u>Northern Ireland</u><br />'General health' refers to a person's health over the 12 months prior to Census day (27 March 2011).",
+F1777,QS302EW0006,Unit,Persons,The unit is for a particular count (e.g. people or households),
+F1778,QS302EW0001,General health,Total\ General health,"General health is a self-assessment of a person's general state of health. People were asked to assess whether their health was very good, good, fair, bad or very bad. For England and Wales, this assessment is not based on a person's health over any specified period of time.
+<br /><br />
+&nbsp;&nbsp;<u>Northern Ireland</u><br />'General health' refers to a person's health over the 12 months prior to Census day (27 March 2011).",
+F1778,QS302EW0001,Unit,Persons,The unit is for a particular count (e.g. people or households),
+F1779,QS302EW0002,General health,Very good health,"General health is a self-assessment of a person's general state of health. People were asked to assess whether their health was very good, good, fair, bad or very bad. For England and Wales, this assessment is not based on a person's health over any specified period of time.
+<br /><br />
+&nbsp;&nbsp;<u>Northern Ireland</u><br />'General health' refers to a person's health over the 12 months prior to Census day (27 March 2011).",
+F1779,QS302EW0002,Unit,Persons,The unit is for a particular count (e.g. people or households),
+F1780,QS302EW0003,General health,Good health,"General health is a self-assessment of a person's general state of health. People were asked to assess whether their health was very good, good, fair, bad or very bad. For England and Wales, this assessment is not based on a person's health over any specified period of time.
+<br /><br />
+&nbsp;&nbsp;<u>Northern Ireland</u><br />'General health' refers to a person's health over the 12 months prior to Census day (27 March 2011).",
+F1780,QS302EW0003,Unit,Persons,The unit is for a particular count (e.g. people or households),
+F1781,QS302EW0004,General health,Fair health,"General health is a self-assessment of a person's general state of health. People were asked to assess whether their health was very good, good, fair, bad or very bad. For England and Wales, this assessment is not based on a person's health over any specified period of time.
+<br /><br />
+&nbsp;&nbsp;<u>Northern Ireland</u><br />'General health' refers to a person's health over the 12 months prior to Census day (27 March 2011).",
+F1781,QS302EW0004,Unit,Persons,The unit is for a particular count (e.g. people or households),
+F1782,QS302EW0005,General health,Bad health,"General health is a self-assessment of a person's general state of health. People were asked to assess whether their health was very good, good, fair, bad or very bad. For England and Wales, this assessment is not based on a person's health over any specified period of time.
+<br /><br />
+&nbsp;&nbsp;<u>Northern Ireland</u><br />'General health' refers to a person's health over the 12 months prior to Census day (27 March 2011).",
+F1782,QS302EW0005,Unit,Persons,The unit is for a particular count (e.g. people or households),
